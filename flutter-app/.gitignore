@@ -50,3 +50,4 @@ android/upload_certificate.pem
 android/pepk.jar
 *.keystore
 *.jks
+*.jks.b64
